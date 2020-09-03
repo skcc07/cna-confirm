@@ -2,7 +2,6 @@ package userone;
 
 import javax.persistence.*;
 import org.springframework.beans.BeanUtils;
-import java.util.List;
 
 @Entity
 @Table(name = "Confirm_table")
